@@ -11,8 +11,9 @@ DEV HUB MEMBERS:
 6. NKATHA EMLEEN……………………………………....CT203/123887/25   
 7. BRYAN MWENDA..................CT203/123866/25
 8. VICTOR LIVOI  ……………………………… CT203/123934/25
-   ##My contribution
-   In this group project, i contributed to:
+
+##My contribution
+In this group project, i contributed to:
    -Research on DEV Hub project
    -Making the slides
    -presentation of some slides
